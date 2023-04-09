@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Khalid and I'm a SWE @Optum
+- 👋 Hi, I’m Khalid and I'm a SWE
 - 👀 I’m interested in ML and Forcasting
 - 🌱 I’m currently working with Microservices and Kafka Streams
 - 💞️ I’m looking to collaborate on ML projects to predcit who would become UFC Champion 2023
